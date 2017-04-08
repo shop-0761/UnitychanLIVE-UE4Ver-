@@ -1,2 +1,4 @@
 # README
-Please read it
+UnityChanLIVE をUE4に移植してみました。
+
+なにかあれば @shop_0761 まで。
