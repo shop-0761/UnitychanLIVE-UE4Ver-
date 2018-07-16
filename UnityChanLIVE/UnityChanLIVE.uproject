@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.17",
+	"EngineAssociation": "4.20",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -34,10 +34,6 @@
 		},
 		{
 			"Name": "SpeedTreeImporter",
-			"Enabled": false
-		},
-		{
-			"Name": "AlembicImporter",
 			"Enabled": false
 		},
 		{
@@ -186,6 +182,26 @@
 		},
 		{
 			"Name": "MediaPlayerEditor",
+			"Enabled": false
+		},
+		{
+			"Name": "AlembicImporter",
+			"Enabled": false
+		},
+		{
+			"Name": "HoudiniEngine",
+			"Enabled": false
+		},
+		{
+			"Name": "AppleARKit",
+			"Enabled": false
+		},
+		{
+			"Name": "ActorSequence",
+			"Enabled": false
+		},
+		{
+			"Name": "ImgMedia",
 			"Enabled": false
 		}
 	]
