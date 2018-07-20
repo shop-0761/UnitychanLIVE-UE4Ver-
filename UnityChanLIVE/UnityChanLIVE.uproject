@@ -9,10 +9,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "OculusAudio",
-			"Enabled": true
-		},
-		{
 			"Name": "Paper2D",
 			"Enabled": false
 		},
@@ -70,10 +66,6 @@
 		},
 		{
 			"Name": "PhysXVehicles",
-			"Enabled": false
-		},
-		{
-			"Name": "ExampleDeviceProfileSelector",
 			"Enabled": false
 		},
 		{
